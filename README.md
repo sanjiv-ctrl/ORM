@@ -30,3 +30,27 @@ Insert the following five food orders into the database.
 |      4 | Divya         | Pizza        |        1 |       125 | No           |
 |      5 | Sanjay        | French Fries |        2 |       160 | No           |
 
+## Task 3: Perform Database Operations
+
+Perform the following operations using Django ORM:
+
+1. Create and save the five food orders in the database.
+2. Retrieve and display all food orders.
+3. Filter orders where `is_delivered=True`.
+4. Retrieve orders where the food item is Pizza.
+5. Update the delivery status of an order.
+6. Delete an order from the database.
+
+## Task 4: Expected Output
+
+
+## Technologies Used
+
+- Python
+- Django
+- Django ORM
+- SQLite
+
+## Project Status
+
+Completed as a Django ORM practical exercise.
